@@ -1,7 +1,7 @@
 <!DOCTYPE html>
  <html>
  <head>
-   <title>MOMAD57 (Khan Academy)</title>
+   <title>MOMAD57 ()</title>
    <title>proxyv10</title>
    <meta name="viewport" content="width=device-width, initial-scale=1">
    <!-- header font -->
@@ -10,16 +10,16 @@
        <div id="error"></div>
        <form action="no-js" method="get" id="unblocker-form">
          <p>
-           网址: 
+           mo: 
            <input type="text" id="url" name="url" autofocus="autofocus" value="http://wujieliulan.com"/>
-           <input type="submit" value="浏览"/>
+           <input type="submit" value="mo"/>
            go: 
            <input type="text" id="url" name="url" autofocus="autofocus" value="http://surviv.io"/>
            <input type="submit" value="enjoy"/>
          </p>
        </form>
-       <h3><center>禁网导航</center></h3>
- 	  <h4>实用工具</h4>
+       <h3><center>mo</center></h3>
+ 	  <h4>mo</h4>
  		<a href="./proxy/https://www.google.com/search?q=425事件" target="_blank">Google搜索</a>
  		<a href="./proxy/https://zh.wikipedia.org/wiki/喬高-麥塔斯調查報告" target="_blank">维基百科</a>
  		<a href="https://github.com/gfw-breaker" target="_blank">GitHub</a>
